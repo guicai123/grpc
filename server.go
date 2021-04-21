@@ -10,7 +10,7 @@ import (
 	pb "grpc_02/pb"
 )
 
-// server is used to implement helloworld.GreeterServer.
+// se33rver is used to implement helloworld.GreeterServer.
 type server struct{}
 
 // SayHello implements helloworld.GreeterServer
